@@ -1,0 +1,17 @@
+{
+  "name": "Nova Mobile",
+  "short_name": "Nova Mobile",
+  "description": "Find Your Next Phone — new and pre-owned smartphones and authentic accessories.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f8f9ff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "images/nova-mobile-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

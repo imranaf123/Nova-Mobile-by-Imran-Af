@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /pages/wishlist.html
+
+Sitemap: https://your-domain.com/sitemap.xml

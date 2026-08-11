@@ -1,0 +1,39 @@
+[
+  {
+    "id": "c001",
+    "slug": "smartphones",
+    "name": "New Smartphones",
+    "description": "Brand new flagship and mid-range smartphones",
+    "condition": "new",
+    "image": "images/category-new.jpg"
+  },
+  {
+    "id": "c002",
+    "slug": "used-phones",
+    "name": "Used Phones",
+    "description": "Verified pre-owned devices at great prices",
+    "condition": "used",
+    "image": "images/category-used.jpg"
+  },
+  {
+    "id": "c003",
+    "slug": "accessories",
+    "name": "Accessories",
+    "description": "Chargers, cases, cables and more",
+    "image": "images/category-accessories.jpg"
+  },
+  {
+    "id": "c004",
+    "slug": "audio",
+    "name": "Audio",
+    "description": "Earbuds, headphones and speakers",
+    "image": "images/category-audio.jpg"
+  },
+  {
+    "id": "c005",
+    "slug": "deals",
+    "name": "Hot Deals",
+    "description": "Limited-time discounts on popular devices",
+    "image": "images/category-deals.jpg"
+  }
+]

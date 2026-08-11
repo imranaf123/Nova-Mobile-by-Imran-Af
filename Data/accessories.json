@@ -1,0 +1,193 @@
+[
+  {
+    "id": "acc001",
+    "slug": "airpods-pro-2",
+    "brand": "Apple",
+    "name": "AirPods Pro (2nd Gen)",
+    "category": "audio",
+    "condition": "new",
+    "currency": "PKR",
+    "availability": "in-stock",
+    "featured": true,
+    "ptaStatus": null,
+    "warranty": "PLACEHOLDER",
+    "description": "AirPods Pro (2nd Gen) with USB-C MagSafe charging case. Up to 2x more Active Noise Cancellation, Adaptive Audio, and Personalized Spatial Audio.",
+    "specifications": {
+      "type": "True Wireless Earbuds",
+      "connectivity": "Bluetooth 5.3",
+      "battery": "Up to 6h listening",
+      "features": "ANC, Adaptive Audio, MagSafe"
+    },
+    "batteryHealth": null,
+    "keywords": ["airpods", "apple", "earbuds", "audio"],
+    "compatibleAccessories": [],
+    "installmentEligible": true,
+    "seo": { "title": "AirPods Pro 2 — Nova Mobile", "description": "Buy AirPods Pro 2 in Pakistan." },
+    "variants": [
+      { "sku": "APRO2-USBC", "color": "White", "storage": "USB-C Case", "price": 65000, "compareAtPrice": null, "availability": "in-stock", "images": ["images/airpods-pro-2-white.jpg"] }
+    ]
+  },
+  {
+    "id": "acc002",
+    "slug": "apple-20w-usb-c-charger",
+    "brand": "Apple",
+    "name": "Apple 20W USB-C Power Adapter",
+    "category": "accessories",
+    "condition": "new",
+    "currency": "PKR",
+    "availability": "in-stock",
+    "featured": false,
+    "ptaStatus": null,
+    "warranty": "PLACEHOLDER",
+    "description": "The official Apple 20W USB-C power adapter. Fast-charge your iPhone, iPad, or AirPods.",
+    "specifications": {
+      "type": "Wall Charger",
+      "power": "20W",
+      "port": "USB-C"
+    },
+    "batteryHealth": null,
+    "keywords": ["apple", "charger", "20w", "usb-c"],
+    "compatibleAccessories": [],
+    "installmentEligible": false,
+    "seo": { "title": "Apple 20W Charger — Nova Mobile", "description": "Buy Apple 20W USB-C adapter." },
+    "variants": [
+      { "sku": "A20W-WH", "color": "White", "storage": "20W", "price": 7500, "compareAtPrice": null, "availability": "in-stock", "images": ["images/apple-20w-charger-white.jpg"] }
+    ]
+  },
+  {
+    "id": "acc003",
+    "slug": "samsung-45w-usb-c-charger",
+    "brand": "Samsung",
+    "name": "Samsung 45W Super Fast Charger",
+    "category": "accessories",
+    "condition": "new",
+    "currency": "PKR",
+    "availability": "in-stock",
+    "featured": false,
+    "ptaStatus": null,
+    "warranty": "PLACEHOLDER",
+    "description": "Samsung 45W USB-C super fast charger for Galaxy devices. Charge from 0 to 65% in around 30 minutes.",
+    "specifications": {
+      "type": "Wall Charger",
+      "power": "45W",
+      "port": "USB-C"
+    },
+    "batteryHealth": null,
+    "keywords": ["samsung", "charger", "45w", "fast charge"],
+    "compatibleAccessories": [],
+    "installmentEligible": false,
+    "seo": { "title": "Samsung 45W Charger — Nova Mobile", "description": "Buy Samsung 45W super fast charger." },
+    "variants": [
+      { "sku": "S45W-BK", "color": "Black", "storage": "45W", "price": 6500, "compareAtPrice": null, "availability": "in-stock", "images": ["images/samsung-45w-charger-black.jpg"] }
+    ]
+  },
+  {
+    "id": "acc004",
+    "slug": "usb-c-cable-pack",
+    "brand": "Generic",
+    "name": "USB-C Braided Cable (Pack of 2)",
+    "category": "accessories",
+    "condition": "new",
+    "currency": "PKR",
+    "availability": "in-stock",
+    "featured": false,
+    "ptaStatus": null,
+    "warranty": "PLACEHOLDER",
+    "description": "Durable braided USB-C cables, 1m + 2m, for fast charging and data transfer. Compatible with most modern devices.",
+    "specifications": {
+      "type": "Cable",
+      "length": "1m + 2m",
+      "connectivity": "USB-C to USB-C"
+    },
+    "batteryHealth": null,
+    "keywords": ["cable", "usb-c", "braided"],
+    "compatibleAccessories": [],
+    "installmentEligible": false,
+    "seo": { "title": "USB-C Cable Pack — Nova Mobile", "description": "Buy USB-C braided cable pack." },
+    "variants": [
+      { "sku": "UCC-PACK2", "color": "Black", "storage": "1m + 2m", "price": 1500, "compareAtPrice": null, "availability": "in-stock", "images": ["images/usb-c-cable-pack.jpg"] }
+    ]
+  },
+  {
+    "id": "acc005",
+    "slug": "iphone-15-pro-case",
+    "brand": "Generic",
+    "name": "Silicone Case for iPhone 15 Pro",
+    "category": "accessories",
+    "condition": "new",
+    "currency": "PKR",
+    "availability": "in-stock",
+    "featured": false,
+    "ptaStatus": null,
+    "warranty": "PLACEHOLDER",
+    "description": "Premium liquid silicone case for iPhone 15 Pro. Soft-touch finish, precise cutouts, and shock protection.",
+    "specifications": {
+      "type": "Phone Case",
+      "compatibility": "iPhone 15 Pro"
+    },
+    "batteryHealth": null,
+    "keywords": ["case", "iphone", "silicone", "cover"],
+    "compatibleAccessories": [],
+    "installmentEligible": false,
+    "seo": { "title": "iPhone 15 Pro Case — Nova Mobile", "description": "Buy silicone case for iPhone 15 Pro." },
+    "variants": [
+      { "sku": "CASE15P-NV", "color": "Navy", "storage": "Silicone", "price": 2500, "compareAtPrice": null, "availability": "in-stock", "images": ["images/iphone-15-pro-case-navy.jpg"] },
+      { "sku": "CASE15P-BK", "color": "Black", "storage": "Silicone", "price": 2500, "compareAtPrice": null, "availability": "in-stock", "images": ["images/iphone-15-pro-case-black.jpg"] }
+    ]
+  },
+  {
+    "id": "acc006",
+    "slug": "power-bank-20000mah",
+    "brand": "Generic",
+    "name": "20000mAh Power Bank (22.5W)",
+    "category": "accessories",
+    "condition": "new",
+    "currency": "PKR",
+    "availability": "in-stock",
+    "featured": false,
+    "ptaStatus": null,
+    "warranty": "PLACEHOLDER",
+    "description": "High-capacity 20000mAh power bank with 22.5W fast charging, dual output, and LED display. Keep your phone powered all day.",
+    "specifications": {
+      "type": "Power Bank",
+      "capacity": "20000mAh",
+      "power": "22.5W",
+      "ports": "2x USB-A, 1x USB-C"
+    },
+    "batteryHealth": null,
+    "keywords": ["power bank", "battery", "portable charger"],
+    "compatibleAccessories": [],
+    "installmentEligible": false,
+    "seo": { "title": "20000mAh Power Bank — Nova Mobile", "description": "Buy 20000mAh fast-charging power bank." },
+    "variants": [
+      { "sku": "PB20K-BK", "color": "Black", "storage": "20000mAh", "price": 5500, "compareAtPrice": null, "availability": "in-stock", "images": ["images/power-bank-20000mah.jpg"] }
+    ]
+  },
+  {
+    "id": "acc007",
+    "slug": "wireless-earbuds-pro",
+    "brand": "Generic",
+    "name": "Wireless Earbuds (Pro ANC)",
+    "category": "audio",
+    "condition": "new",
+    "currency": "PKR",
+    "availability": "in-stock",
+    "featured": false,
+    "ptaStatus": null,
+    "warranty": "PLACEHOLDER",
+    "description": "Affordable true wireless earbuds with Active Noise Cancellation, touch controls, and a compact charging case.",
+    "specifications": {
+      "type": "True Wireless Earbuds",
+      "connectivity": "Bluetooth 5.3",
+      "features": "ANC, Touch controls"
+    },
+    "batteryHealth": null,
+    "keywords": ["earbuds", "wireless", "audio", "anc"],
+    "compatibleAccessories": [],
+    "installmentEligible": false,
+    "seo": { "title": "Wireless ANC Earbuds — Nova Mobile", "description": "Buy affordable wireless ANC earbuds." },
+    "variants": [
+      { "sku": "WEP-ANC-WH", "color": "White", "storage": "ANC", "price": 9000, "compareAtPrice": null, "availability": "in-stock", "images": ["images/wireless-earbuds-pro-white.jpg"] }
+    ]
+  }
+]

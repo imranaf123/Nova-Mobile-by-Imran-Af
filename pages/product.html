@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Product — Nova Mobile</title>
+<meta name="description" content="Browse new and pre-owned smartphones and accessories at Nova Mobile.">
+<meta name="robots" content="index, follow">
+<link rel="manifest" href="../manifest.json">
+<link rel="icon" href="../images/nova-mobile-logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body data-page="product" class="has-bottomnav">
+
+<header class="site-header">
+  <div class="container">
+    <div class="header-row">
+      <a class="brand" href="../index.html"><img src="../images/nova-mobile-logo.png" alt="Nova Mobile logo" onerror="this.style.display='none'"><span class="brand-text">NOVA MOBILE</span></a>
+      <div class="search-box">
+        <span class="ms">search</span>
+        <input type="text" placeholder="Search for phones, accessories..." aria-label="Search" data-search-input>
+      </div>
+      <div class="header-actions">
+        <button class="icon-btn mobile-search" data-goto-search aria-label="Search"><span class="ms">search</span></button>
+        <a class="icon-btn hide-mobile" href="wishlist.html" aria-label="Wishlist"><span class="ms">favorite</span><span>Wishlist</span></a>
+        <a class="icon-btn active has-count" href="order-list.html" aria-label="Order list"><span class="ms filled">receipt_long</span><span class="hide-mobile">Orders</span><span class="count" data-order-count style="display:none">0</span></a>
+      </div>
+    </div>
+  </div>
+  <nav class="site-nav"><ul>
+    <li><a href="../index.html">Home</a></li>
+    <li><a class="active" href="catalog.html">Phones</a></li>
+    <li><a href="catalog.html?brand=apple">iPhone</a></li>
+    <li><a href="catalog.html?brand=samsung">Samsung</a></li>
+    <li><a href="catalog.html?brand=xiaomi">Xiaomi</a></li>
+    <li><a href="catalog.html?condition=used">Used</a></li>
+    <li><a href="catalog.html?category=accessories">Accessories</a></li>
+    <li><a class="deals" href="catalog.html?deal=1"><span class="ms sm">local_fire_department</span>Deals</a></li>
+  </ul></nav>
+  <nav class="category-bar"><ul>
+    <li><a href="catalog.html">All Phones</a></li>
+    <li><a href="catalog.html?brand=apple">iPhone</a></li>
+    <li><a href="catalog.html?brand=samsung">Samsung</a></li>
+    <li><a href="catalog.html?brand=xiaomi">Xiaomi</a></li>
+    <li><a href="catalog.html?brand=vivo">Vivo</a></li>
+    <li><a href="catalog.html?brand=infinix">Infinix</a></li>
+    <li><a href="catalog.html?condition=used">Used</a></li>
+    <li><a href="catalog.html?category=accessories">Accessories</a></li>
+    <li><a class="deals" href="catalog.html?deal=1"><span class="ms sm">local_fire_department</span>Deals</a></li>
+  </ul></nav>
+</header>
+
+<main class="container">
+  <nav class="breadcrumb" id="pdp-breadcrumb"><a href="../index.html">Home</a><span class="sep ms sm">chevron_right</span><span class="current">Product</span></nav>
+
+  <div id="pdp-root">
+  <div class="pdp-layout">
+    <!-- Gallery -->
+    <div class="pdp-gallery" id="pdp-gallery"></div>
+    <!-- Info -->
+    <div class="pdp-info">
+      <div id="pdp-info"></div>
+      <div id="pdp-variants"></div>
+      <div id="pdp-actions"></div>
+    </div>
+  </div>
+
+  <section class="section" id="pdp-specs"></section>
+
+  <section class="section">
+    <div class="trust-strip" id="pdp-trust"></div>
+  </section>
+
+  <section class="section pdp-detail" id="pdp-detail"></section>
+
+  <section class="section">
+    <div class="section-head"><h2 class="section-title">Compatible Accessories</h2><a class="link-more" href="catalog.html?category=accessories">View All <span class="ms sm">arrow_forward</span></a></div>
+    <div class="carousel" id="pdp-accessories"></div>
+  </section>
+
+  <section class="section">
+    <h2 class="section-title mb-3">Customer Reviews</h2>
+    <div id="pdp-reviews"></div>
+  </section>
+  </div>
+</main>
+
+<nav class="bottom-nav" aria-label="Mobile navigation">
+  <a href="../index.html"><span class="ms">home</span>Home</a>
+  <a href="catalog.html"><span class="ms">grid_view</span>Categories</a>
+  <a href="search.html"><span class="ms">search</span>Search</a>
+  <a href="compare.html"><span class="ms">compare_arrows</span>Compare</a>
+  <a href="order-list.html"><span class="ms">receipt_long</span>Orders</a>
+</nav>
+
+<div id="footer-host"></div>
+
+<script src="../js/data.js"></script>
+<script src="../js/state.js"></script>
+<script src="../js/whatsapp.js"></script>
+<script src="../js/render.js"></script>
+<script src="../js/main.js"></script>
+</body>
+</html>

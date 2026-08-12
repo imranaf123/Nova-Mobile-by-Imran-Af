@@ -4,8 +4,8 @@
   "description": "Find Your Next Phone — new and pre-owned smartphones and authentic accessories.",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#f8f9ff",
-  "theme_color": "#2563eb",
+  "background_color": "#0c0a09",
+  "theme_color": "#d9a441",
   "icons": [
     {
       "src": "images/nova-mobile-logo.png",

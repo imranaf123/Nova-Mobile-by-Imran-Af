@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /pages/wishlist.html
 
-Sitemap: https://your-domain.com/sitemap.xml
+Sitemap: https://nova-mobile-by-imran-af.vercel.app/sitemap.xml
